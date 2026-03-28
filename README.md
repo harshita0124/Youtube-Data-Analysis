@@ -37,6 +37,16 @@ The dataset is not included in this repository due to its large size.
 
 ## Sample Outputs :
 
+
+### Top Channels by Number of Trending Videos:
+
+![Top Channels](outputs/top_channels_trending_videos.png)
+
+This visualization shows the top YouTube channels with the highest number of trending videos, highlighting the most dominant and frequently trending creators on the platform.
+
+---
+
+
 ### Audience Engagement by Category:
 
 ![Audience Engagement](outputs/audience_engagement_by_category.png)
