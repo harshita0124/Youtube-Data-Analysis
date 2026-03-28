@@ -17,15 +17,17 @@ This project analyzes YouTube trending video data to uncover insights about view
 Youtube_Data_Analysis/
 │
 ├── notebooks/
-│   └── Youtube_Data_Analysis.ipynb  
+│   └── youtube_data_analysis.ipynb
 │
 ├── outputs/
-│   ├── top_categories.png
-│   ├── views_distribution.png
+│   ├── audience_engagement_by_category.png
+│   ├── category_attention_share.png
+│   └── engagement_bubble_map.png
 │
 ├── README.md
-└── requirements.txt  
+└── requirements.txt
 ```
+
 
 ### Dataset :
 The dataset is not included in this repository due to its large size.
