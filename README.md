@@ -1,29 +1,35 @@
-# Youtube Data Analysis
+## Youtube Data Analysis
 
-## Overview :
+### Overview :
 
 This project analyzes YouTube trending video data to uncover insights about views, likes, comments, and content categories. The goal is to understand what makes videos trend and identify patterns across different regions.
 
-## Objectives :
+### Objectives :
 
 - Perform data cleaning and preprocessing
 - Analyze trends in views, likes, and comments
 - Identify top-performing categories
 - Visualize insights using graphs and charts
 
-## Project Structure :
+### Project Structure :
 
 ```
 Youtube_Data_Analysis/
 │
 ├── notebooks/
-│   └── Youtube_Data_Analysis.ipynb   # Your main notebook
+│   └── Youtube_Data_Analysis.ipynb  
 │
 ├── outputs/
 │   ├── top_categories.png
 │   ├── views_distribution.png
 │
 ├── README.md
-├── requirements.txt
-└── dataset_link.txt    
+└── requirements.txt  
 ```
+
+### Dataset :
+The dataset is not included in this repository due to its large size.
+
+**Download Dataset:** https://drive.google.com/drive/folders/1OV597CngPKDa-HQPc8JRSHCnnT1ttmAk?usp=sharing
+
+
