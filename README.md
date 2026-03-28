@@ -54,6 +54,17 @@ This visualization shows the top YouTube channels with the highest number of tre
 
 ---
 
+### Trending Momentum Over Time (Top 6 Categories):
+
+<p align="center">
+  <img src="outputs/top6_trending_momentum.png" width="800"/>
+</p>
+
+This visualization focuses on the top 6 YouTube categories with the highest total views, showing how their trending momentum evolves over time. It provides a clearer comparison of dominant categories and highlights fluctuations in popularity across different time periods.
+
+---
+
+
 
 ### Audience Engagement by Category:
 
