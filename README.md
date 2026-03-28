@@ -1,4 +1,10 @@
 <h1 align="center">YouTube Data Analysis</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-yellow"/>
+  <img src="https://img.shields.io/badge/Visualization-Plotly-orange"/>
+  <img src="https://img.shields.io/badge/NLP-NLTK-green"/>
+</p>
 
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg" width="600"/>
@@ -54,17 +60,6 @@ This visualization shows the top YouTube channels with the highest number of tre
 
 ---
 
-### Trending Momentum Over Time (Top 6 Categories):
-
-<p align="center">
-  <img src="outputs/top6_trending_momentum.png" width="800"/>
-</p>
-
-This visualization focuses on the top 6 YouTube categories with the highest total views, showing how their trending momentum evolves over time. It provides a clearer comparison of dominant categories and highlights fluctuations in popularity across different time periods.
-
----
-
-
 
 ### Audience Engagement by Category:
 
@@ -88,11 +83,35 @@ This chart highlights how attention is distributed across categories along with 
 
 This bubble chart represents the relationship between video views and engagement rate across categories.
 
+---
+
+### Trending Momentum Over Time (Top 6 Categories):
+
+<p align="center">
+  <img src="outputs/top6_trending_momentum.png" width="800"/>
+</p>
+
+This visualization focuses on the top 6 YouTube categories with the highest total views, showing how their trending momentum evolves over time. It provides a clearer comparison of dominant categories and highlights fluctuations in popularity across different time periods.
 
 
+---
 
+## Key Insights :
 
+* Categories like Music and Entertainment consistently have the highest number of trending videos, showing their strong popularity among viewers.
+* Videos with more likes and comments are more likely to trend, indicating that audience engagement plays a major role.
+* Some channels appear frequently in trending lists, which suggests they have a loyal audience and consistent content strategy.
+* Trends are not constant — certain categories gain popularity at different times, showing changing viewer interests over time.
 
+---
+
+## Challenges Faced :
+
+* Working with a large dataset was difficult and required careful handling to avoid performance issues.
+* Some visualizations were hard to interpret at first due to long labels and clutter, so adjustments were needed.
+* Choosing the right type of graph for each analysis was challenging but important to clearly present insights.
+
+---
 
 
 
