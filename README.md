@@ -28,8 +28,10 @@ This project analyzes YouTube trending video data to uncover insights about view
 
 ## Project Structure :
 
-```
-Youtube_Data_Analysis/
+
+
+```id="b7u2qk"
+youtube-data-analysis/
 │
 ├── notebooks/
 │   └── youtube_data_analysis.ipynb
@@ -37,11 +39,15 @@ Youtube_Data_Analysis/
 ├── outputs/
 │   ├── audience_engagement_by_category.png
 │   ├── category_attention_share.png
-│   └── engagement_bubble_map.png
+│   ├── engagement_bubble_map.png
+│   ├── top_channels_trending_videos.png
+│   └── top6_trending_momentum.png
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
 ```
+
 
 
 ## Dataset :
