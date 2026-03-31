@@ -28,7 +28,6 @@ This project analyzes YouTube trending video data to uncover insights about view
 
 ## Project Structure :
 
-
 ```id="b7u2qk"
 youtube-data-analysis/
 │
@@ -46,7 +45,6 @@ youtube-data-analysis/
 ├── requirements.txt
 └── LICENSE
 ```
-
 
 ## Dataset :
 The dataset is not included in this repository due to its large size.
