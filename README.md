@@ -102,7 +102,7 @@ This visualization focuses on the top 6 YouTube categories with the highest tota
 * Categories like Music and Entertainment consistently have the highest number of trending videos, showing their strong popularity among viewers.
 * Videos with more likes and comments are more likely to trend, indicating that audience engagement plays a major role.
 * Some channels appear frequently in trending lists, which suggests they have a loyal audience and consistent content strategy.
-* Trends are not constant — certain categories gain popularity at different times, showing changing viewer interests over time.
+* Trends are not constant, certain categories gain popularity at different times, showing changing viewer interests over time.
 
 ---
 
