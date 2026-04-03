@@ -62,7 +62,6 @@ This visualization shows the top YouTube channels with the highest number of tre
 
 ---
 
-
 ### Audience Engagement by Category:
 
 ![Audience Engagement](outputs/audience_engagement_by_category.png)
