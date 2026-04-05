@@ -20,7 +20,6 @@ This project analyzes YouTube trending video data to uncover insights about view
 
 ## Objectives :
 
-
 - Perform data cleaning and preprocessing
 - Analyze trends in views, likes, and comments
 - Identify top-performing categories
