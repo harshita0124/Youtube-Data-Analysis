@@ -16,7 +16,6 @@
 
 ## Overview :
 
-
 This project analyzes YouTube trending video data to uncover insights about views, likes, comments, and content categories. The goal is to understand what makes videos trend and identify patterns across different regions.
 
 ## Objectives :
